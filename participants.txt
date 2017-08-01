@@ -1,5 +1,5 @@
  'dyl****son@nih.gov', Dylan Nielson, nielsond, shotgunosine, 10101
- 'Emi****inn@nih.gov', Emily Finn, finnes, esfinn, 10102
+ 'Emi****inn@nih.gov', Emily Finn, finnes, esfinn
  'Pet****ese@nih.gov', Peter Molfese, molfesepj, pmolfese, 10103
  'abd****dil@nih.gov',
  'aku****lan@mail.nih.gov', Nirmala Akula, akulan, akulan, 10105
